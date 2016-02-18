@@ -1,4 +1,4 @@
-#!/usr/bin/lua
+#!/usr/bin/env python
 require 'uci'
 require 'dumper'
 require 'nixio'
